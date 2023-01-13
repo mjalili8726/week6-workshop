@@ -1,0 +1,29 @@
+body {
+    font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+  }
+  
+  p {
+    color: #918e9b;
+    height: 7px;
+  }
+  h3 {
+    color: #918e9b;
+  }
+  .city {
+    border-color: rgb(240, 233, 233);
+    height: 35px;
+  }
+  
+  .ul-items {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 20px;
+  }
+  
+  .li-items {
+    display: contents;
+  }
+  body {
+    font-family: sans-serif;
+  }
+  
